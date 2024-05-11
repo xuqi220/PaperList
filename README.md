@@ -23,3 +23,6 @@ LAiW: A Chinese Legal Large Language Models Benchmark [[paper](https://openrevie
 QWEN TECHNICAL REPORT [[paper](https://arxiv.org/abs/2309.16609)]
 
 GLM: General Language Model Pretraining with Autoregressive Blank Infilling [[paper](https://aclanthology.org/2022.acl-long.26.pdf)]
+
+
+### Retriever Argument Generation（RAG）
