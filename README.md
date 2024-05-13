@@ -15,16 +15,26 @@
 
 ### Legal Judgment Prediction
 
+
 ### Court View Generation
 
 ### Similar Case Match
 
-### Study
-LAiW: A Chinese Legal Large Language Models Benchmark [[paper](https://openreview.net/pdf?id=HEjqNfHCCH)]
-
-LawBench: Benchmarking Legal Knowledge of Large Language Models. [[paper](https://arxiv.org/abs/2309.16289)]
+### LLM in Law
 
 DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services. [[paper](https://arxiv.org/abs/2309.11325)]
+
+### Study
+
+A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction,2023. [[paper](https://aclanthology.org/2023.findings-emnlp.490/)]
+
+LawBench: Benchmarking Legal Knowledge of Large Language Models,2023. [[paper](https://arxiv.org/abs/2309.16289)]
+
+LAiW: A Chinese Legal Large Language Models Benchmark,2024. [[paper](https://openreview.net/pdf?id=HEjqNfHCCH)]
+
+
+
+
 
 ## Large Language Model
 
