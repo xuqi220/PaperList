@@ -11,13 +11,19 @@
 
 ### Court View Generation
 
+### Similar Case Match
 
 ### Study
 LAiW: A Chinese Legal Large Language Models Benchmark [[paper](https://openreview.net/pdf?id=HEjqNfHCCH)]
 
+LawBench: Benchmarking Legal Knowledge of Large Language Models. [[paper](https://arxiv.org/abs/2309.16289)]
 
+DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services. [[paper](https://arxiv.org/abs/2309.11325)]
 
 ## Large Language Model
+
+### Survey
+
 
 ### Models
 QWEN TECHNICAL REPORT [[paper](https://arxiv.org/abs/2309.16609)]
