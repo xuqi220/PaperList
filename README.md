@@ -71,6 +71,13 @@ Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework,2023. [[paper](
 
 **Exploring and Evaluating Hallucinations in LLM-Powered Code Generation,2024.** [[paper](https://arxiv.org/abs/2404.00971)]
 
+UHGEval: Benchmarking the Hallucination of
+Chinese Large Language Models via Unconstrained Generation,2024.[[paper](https://arxiv.org/abs/2311.15296)]
+
+Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models,2023.[[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614905)]
+
+The Internal State of an LLM Knows When It's Lying,2023. [[paper](https://arxiv.org/abs/2304.13734)]
+
 ### LLM interpretation
 
 
