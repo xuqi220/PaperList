@@ -62,6 +62,7 @@ Introducing Meta Llama 3: The most capable openly available LLM to date [[Link](
 
 Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework,2023. [[paper](https://aclanthology.org/2023.acl-long.320.pdf)]
 
+Chain of Thought Prompting Elicits Knowledge Augmentation,2023.[[paper](https://aclanthology.org/2023.findings-acl.408.pdf)]
 
 ### Hallucination
 

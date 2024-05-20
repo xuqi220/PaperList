@@ -1,5 +1,5 @@
-# 2024 
-##  1. RA-ISF: Learning to Answer and Understand from Retrieval Augmentation via Iterative Self-Feedback (Arxiv)
+ 
+# RA-ISF: Learning to Answer and Understand from Retrieval Augmentation via Iterative Self-Feedback (Arxiv)
 
 ### 任务：Question(text only) ——> LLM ——> Answer(text only)
 
@@ -93,9 +93,7 @@ MindMap 可以作为一个即插即用的插件，对现有框架的提升很明
 chain through instruction learning
 
 
-# 2023
-
-## 1. Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework
+## Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework
 
 ### 问题：
 
