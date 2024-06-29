@@ -53,9 +53,13 @@ LLaMA: Open and Efficient Foundation Language Models [[paper](https://arxiv.org/
 
 Llama 2: Open Foundation and Fine-Tuned Chat Models [[paper](https://arxiv.org/abs/2307.09288)]
 
-Introducing Meta Llama 3: The most capable openly available LLM to date [[Link](https://ai.meta.com/blog/meta-llama-3/)]
+Introducing Meta Llama 3: The most capable openly available LLM to date [[paper](https://ai.meta.com/blog/meta-llama-3/)]
 
 ### Retriever Argument Generation（RAG）
+
+
+### PLan-then-Generate
+Plan-then-Generate: Controlled Data-to-Text Generation via Planning,2021[[paper](https://aclanthology.org/2021.findings-emnlp.76/)]
 
 
 ### Chain-of-Thought (CoT)
