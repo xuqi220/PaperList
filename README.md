@@ -61,8 +61,15 @@ Introducing Meta Llama 3: The most capable openly available LLM to date [[paper]
 ### PLan-then-Generate
 Plan-then-Generate: Controlled Data-to-Text Generation via Planning,2021.[[paper](https://aclanthology.org/2021.findings-emnlp.76/)]
 
+Interpretable Math Word Problem Solution Generation
+Via Step-by-step Planning,2023. [[paper](https://aclanthology.org/2023.acl-long.379/)]
+
 ### Generated with Citations
+
 Learning to Plan and Generate Text with Citations,2024.[[paper](https://arxiv.org/abs/2404.03381)]
+
+Enabling Large Language Models to Generate Text with Citations,2023.[[paper](https://aclanthology.org/2023.emnlp-main.398/)]
+
 
 
 ### Chain-of-Thought (CoT)
