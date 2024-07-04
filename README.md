@@ -11,7 +11,16 @@
 ### Legal Judgment Prediction
 
 
+
 ### Court View Generation
+
+Event Grounded Criminal Court View Generation with Cooperative (Large) Language Models,2024.[[sigir](https://arxiv.org/abs/2404.07001)]
+
+Explaining legal judgments: A multitask learning framework for enhancing factual consistency in rationale generation,2023.[[paper](https://www.sciencedirect.com/science/article/pii/S1319157823004226)]
+
+Circumstances enhanced Criminal Court View Generation,2021.[[sigir](https://dl.acm.org/doi/abs/10.1145/3404835.3462984)]
+
+Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions,2018,[[naacl](https://aclanthology.org/N18-1168/)]
 
 ### Similar Case Match
 
