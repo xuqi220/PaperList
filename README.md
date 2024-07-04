@@ -64,6 +64,8 @@ Introducing Meta Llama 3: The most capable openly available LLM to date [[paper]
 Self-Knowledge Guided Retrieval Augmentation
 for Large Language Models,2023[[EMNLP](https://aclanthology.org/2023.findings-emnlp.691/)]
 
+Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy,2023.[[EMNLP](https://aclanthology.org/2023.findings-emnlp.620/)]
+
 ### PLan-then-Generate
 Plan-then-Generate: Controlled Data-to-Text Generation via Planning,2021.[[paper](https://aclanthology.org/2021.findings-emnlp.76/)]
 
