@@ -46,6 +46,8 @@ TruthfulQA: Measuring How Models Mimic Human Falsehoods,2022. [[paper](https://a
 
 ### Survey
 
+A Survey on Efficient Inference for Large
+Language Models,2024.[[paper](https://arxiv.org/abs/2404.14294)]
 
 ### Models
 QWEN TECHNICAL REPORT [[paper](https://arxiv.org/abs/2309.16609)]
@@ -65,6 +67,8 @@ Self-Knowledge Guided Retrieval Augmentation
 for Large Language Models,2023[[EMNLP](https://aclanthology.org/2023.findings-emnlp.691/)]
 
 Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy,2023.[[EMNLP](https://aclanthology.org/2023.findings-emnlp.620/)]
+
+Retrieval-Generation Synergy Augmented Large Language Models,2023.[[paper](https://arxiv.org/abs/2310.05149)]
 
 ### PLan-then-Generate
 Plan-then-Generate: Controlled Data-to-Text Generation via Planning,2021.[[paper](https://aclanthology.org/2021.findings-emnlp.76/)]
