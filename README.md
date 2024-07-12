@@ -78,6 +78,11 @@ Via Step-by-step Planning,2023. [[paper](https://aclanthology.org/2023.acl-long.
 
 ### Generated with Citations
 
+Training Language Models to Generate Text with Citations via
+Fine-grained Rewards,2024.[[paper](https://arxiv.org/pdf/2402.04315)]
+
+Chain-of-Thought Improves Text Generation with Citations in Large Language Models,2024.[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29794)]
+
 Learning to Plan and Generate Text with Citations,2024.[[paper](https://arxiv.org/abs/2404.03381)]
 
 Enabling Large Language Models to Generate Text with Citations,2023.[[paper](https://aclanthology.org/2023.emnlp-main.398/)]
