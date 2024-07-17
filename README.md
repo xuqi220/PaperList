@@ -54,12 +54,16 @@ QWEN TECHNICAL REPORT [[paper](https://arxiv.org/abs/2309.16609)]
 
 GLM: General Language Model Pretraining with Autoregressive Blank Infilling [[paper](https://aclanthology.org/2022.acl-long.26.pdf)]
 
-
 LLaMA: Open and Efficient Foundation Language Models [[paper](https://arxiv.org/abs/2302.13971)]
 
 Llama 2: Open Foundation and Fine-Tuned Chat Models [[paper](https://arxiv.org/abs/2307.09288)]
 
 Introducing Meta Llama 3: The most capable openly available LLM to date [[paper](https://ai.meta.com/blog/meta-llama-3/)]
+
+### Rule-based Reasoning
+Large Language Models can Learn Rules. [[paper](https://arxiv.org/abs/2310.07064)]
+
+Case-Based or Rule-Based: How Do Transformers Do the Math? [[ICML](https://arxiv.org/abs/2402.17709)]
 
 ### Retriever Argument Generation（RAG）
 
