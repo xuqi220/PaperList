@@ -64,7 +64,7 @@ Introducing Meta Llama 3: The most capable openly available LLM to date [[paper]
 
 Large Language Models can Learn Rules,2024.[[paper](https://arxiv.org/abs/2310.07064)]
 
-Case-Based or Rule-Based: How Do Transformers Do the Math?,2024. [[ICML](https://arxiv.org/abs/2402.17709)]
+Case-Based or Rule-Based: How Do Transformers Do the Math? 2024,[[ICML](https://arxiv.org/abs/2402.17709)].
 
 Enabling Large Language Models to Learn from Rules,2023. [[paper](https://arxiv.org/pdf/2311.08883v2)]
 
