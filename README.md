@@ -10,8 +10,6 @@
 
 ### Legal Judgment Prediction
 
-
-
 ### Court View Generation
 
 Event Grounded Criminal Court View Generation with Cooperative (Large) Language Models,2024.[[sigir](https://arxiv.org/abs/2404.07001)]
@@ -45,6 +43,10 @@ TruthfulQA: Measuring How Models Mimic Human Falsehoods,2022. [[paper](https://a
 ## Large Language Model
 
 ### Survey
+
+
+Leveraging Large Language Models for NLG Evaluation:
+Advances and Challenges,2024.[[paper](https://arxiv.org/abs/2401.07103)]
 
 A Survey on Efficient Inference for Large
 Language Models,2024.[[paper](https://arxiv.org/abs/2404.14294)]
