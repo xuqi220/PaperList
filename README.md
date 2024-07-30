@@ -9,10 +9,6 @@
 
 ### Legal Judgment Prediction
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 9e00c2bb7781f124fdd292c2806399f5b5c5050c
 ### Court View Generation
 
 Event Grounded Criminal Court View Generation with Cooperative (Large) Language Models,2024.[[sigir](https://arxiv.org/abs/2404.07001)]
