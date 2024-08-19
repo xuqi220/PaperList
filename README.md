@@ -121,6 +121,8 @@ Toolformer: Language Models Can Teach Themselves to Use Tools, 2024. [[Neurips](
 
 # Parameter-Efficient Fine-Tuning
 
+Blog[[Link](https://spaces.ac.cn/archives/9590)]
+
 LoRA: Low-Rank Adaptation of Large Language Models,2021.[[paper](https://arxiv.org/abs/2106.09685)]
 
 
