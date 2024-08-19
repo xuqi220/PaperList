@@ -116,10 +116,15 @@ Hallucination Detection: Robustly Discerning Reliable Answers in Large Language 
 
 The Internal State of an LLM Knows When It's Lying,2023. [[paper](https://arxiv.org/abs/2304.13734)]
 
-### LLM Interpretation
+### * LLM Interpretation
 
-### LLM using Tools
+### * LLM using Tools
 Toolformer: Language Models Can Teach Themselves to Use Tools, 2024. [[Neurips](https://papers.nips.cc/paper_files/paper/2023/hash/d842425e4bf79ba039352da0f658a906-Abstract-Conference.html)]
+
+## Parameter-Efficient Fine-Tuning
+
+LoRA: Low-Rank Adaptation of Large Language Models,2021.[[paper](https://arxiv.org/abs/2106.09685)]
+
 
 ## Other
 
