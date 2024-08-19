@@ -3,13 +3,13 @@
 
 ## LegalAI
 
-### Survey
+### * Survey
 
-### Dataset
+### * Dataset
 
-### Legal Judgment Prediction
+### * Legal Judgment Prediction
 
-### Court View Generation
+### * Court View Generation
 
 Event Grounded Criminal Court View Generation with Cooperative (Large) Language Models,2024.[[sigir](https://arxiv.org/abs/2404.07001)]
 
@@ -19,15 +19,15 @@ Circumstances enhanced Criminal Court View Generation,2021.[[sigir](https://dl.a
 
 Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions,2018,[[naacl](https://aclanthology.org/N18-1168/)]
 
-### Similar Case Match
+### * Similar Case Match
 
-### LLM in Law
+### * LLM in Law
 
 DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services,2023. [[paper](https://arxiv.org/abs/2309.11325)]
 
 Lawyer LLaMA Technical Report,2023.[[paper](https://arxiv.org/abs/2305.15062)]
 
-### Study
+### * Study
 
 A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction,2023. [[paper](https://aclanthology.org/2023.findings-emnlp.490/)]
 
@@ -41,8 +41,7 @@ TruthfulQA: Measuring How Models Mimic Human Falsehoods,2022. [[paper](https://a
 
 ## Large Language Model
 
-### Survey
-
+### * Survey
 
 Leveraging Large Language Models for NLG Evaluation:
 Advances and Challenges,2024.[[paper](https://arxiv.org/abs/2401.07103)]
@@ -50,7 +49,7 @@ Advances and Challenges,2024.[[paper](https://arxiv.org/abs/2401.07103)]
 A Survey on Efficient Inference for Large
 Language Models,2024.[[paper](https://arxiv.org/abs/2404.14294)]
 
-### Models
+### * Models
 QWEN TECHNICAL REPORT [[paper](https://arxiv.org/abs/2309.16609)]
 
 GLM: General Language Model Pretraining with Autoregressive Blank Infilling [[paper](https://aclanthology.org/2022.acl-long.26.pdf)]
@@ -61,7 +60,7 @@ Llama 2: Open Foundation and Fine-Tuned Chat Models [[paper](https://arxiv.org/a
 
 Introducing Meta Llama 3: The most capable openly available LLM to date [[paper](https://ai.meta.com/blog/meta-llama-3/)]
 
-### Rule-based Reasoning
+### * Rule-based Reasoning
 
 Large Language Models can Learn Rules,2024.[[paper](https://arxiv.org/abs/2310.07064)]
 
@@ -69,7 +68,7 @@ Case-Based or Rule-Based: How Do Transformers Do the Math? 2024,[[ICML](https://
 
 Enabling Large Language Models to Learn from Rules,2023. [[paper](https://arxiv.org/pdf/2311.08883v2)]
 
-### Retriever Argument Generation（RAG）
+### * Retriever Argument Generation（RAG）
 
 Self-Knowledge Guided Retrieval Augmentation
 for Large Language Models,2023[[EMNLP](https://aclanthology.org/2023.findings-emnlp.691/)]
@@ -78,16 +77,15 @@ Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Gen
 
 Retrieval-Generation Synergy Augmented Large Language Models,2023.[[paper](https://arxiv.org/abs/2310.05149)]
 
-### PLan-then-Generate
+### * PLan-then-Generate
 Plan-then-Generate: Controlled Data-to-Text Generation via Planning,2021.[[paper](https://aclanthology.org/2021.findings-emnlp.76/)]
 
 Interpretable Math Word Problem Solution Generation
 Via Step-by-step Planning,2023. [[paper](https://aclanthology.org/2023.acl-long.379/)]
 
-### Generated with Citations
+### * Generated with Citations
 
-Training Language Models to Generate Text with Citations via
-Fine-grained Rewards,2024.[[paper](https://arxiv.org/pdf/2402.04315)]
+Training Language Models to Generate Text with Citations via Fine-grained Rewards,2024.[[paper](https://arxiv.org/pdf/2402.04315)]
 
 Chain-of-Thought Improves Text Generation with Citations in Large Language Models,2024.[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29794)]
 
@@ -97,13 +95,13 @@ Enabling Large Language Models to Generate Text with Citations,2023.[[paper](htt
 
 
 
-### Chain-of-Thought (CoT)
+### * Chain-of-Thought (CoT)
 
 Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework,2023. [[paper](https://aclanthology.org/2023.acl-long.320.pdf)]
 
 Chain of Thought Prompting Elicits Knowledge Augmentation,2023.[[paper](https://aclanthology.org/2023.findings-acl.408.pdf)]
 
-### Hallucination
+### * Hallucination
 
 **Evaluating Hallucinations in Chinese Large Language Models,2023.** [[paper](https://arxiv.org/abs/2310.03368)]
 
