@@ -1,7 +1,5 @@
 
-# 目录
-
-## LegalAI
+# LegalAI
 
 ### * Survey
 
@@ -39,7 +37,7 @@ TruthfulQA: Measuring How Models Mimic Human Falsehoods,2022. [[paper](https://a
 
 **Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models,2024.** [[paper](https://arxiv.org/abs/2401.01301)]
 
-## Large Language Model
+# Large Language Model
 
 ### * Survey
 
@@ -121,12 +119,12 @@ The Internal State of an LLM Knows When It's Lying,2023. [[paper](https://arxiv.
 ### * LLM using Tools
 Toolformer: Language Models Can Teach Themselves to Use Tools, 2024. [[Neurips](https://papers.nips.cc/paper_files/paper/2023/hash/d842425e4bf79ba039352da0f658a906-Abstract-Conference.html)]
 
-## Parameter-Efficient Fine-Tuning
+# Parameter-Efficient Fine-Tuning
 
 LoRA: Low-Rank Adaptation of Large Language Models,2021.[[paper](https://arxiv.org/abs/2106.09685)]
 
 
-## Other
+# Other
 
 DeepChannel: Salience Estimation by Contrastive Learning
 for Extractive Document Summarization,2018.[[paper](https://arxiv.org/abs/1811.02394)]
