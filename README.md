@@ -60,6 +60,8 @@ Introducing Meta Llama 3: The most capable openly available LLM to date [[paper]
 
 ### * Rule-based Reasoning
 
+Chain of Logic: Rule-Based Reasoning with Large Language Models,2024.[[ACL](https://aclanthology.org/2024.findings-acl.159.pdf)]
+
 Large Language Models can Learn Rules,2024.[[paper](https://arxiv.org/abs/2310.07064)]
 
 Case-Based or Rule-Based: How Do Transformers Do the Math? 2024,[[ICML](https://arxiv.org/abs/2402.17709)].
@@ -83,7 +85,9 @@ Via Step-by-step Planning,2023. [[paper](https://aclanthology.org/2023.acl-long.
 
 ### * Generated with Citations
 
-Training Language Models to Generate Text with Citations via Fine-grained Rewards,2024.[[paper](https://arxiv.org/pdf/2402.04315)]
+Citation-Enhanced Generation for LLM-based Chatbots,2024.[[ACL](https://aclanthology.org/2024.acl-long.79)]
+
+Training Language Models to Generate Text with Citations via Fine-grained Rewards,2024.[[ACL](https://arxiv.org/pdf/2402.04315)]
 
 Chain-of-Thought Improves Text Generation with Citations in Large Language Models,2024.[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29794)]
 
