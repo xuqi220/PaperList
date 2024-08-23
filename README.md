@@ -129,6 +129,7 @@ Blog[[Link](https://spaces.ac.cn/archives/9590)]
 
 LoRA: Low-Rank Adaptation of Large Language Models,2021.[[paper](https://arxiv.org/abs/2106.09685)]
 
+MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning,2024.[[ACL](https://aclanthology.org/2024.acl-long.168)]
 
 # Other
 
