@@ -58,7 +58,11 @@ Llama 2: Open Foundation and Fine-Tuned Chat Models [[paper](https://arxiv.org/a
 
 Introducing Meta Llama 3: The most capable openly available LLM to date [[paper](https://ai.meta.com/blog/meta-llama-3/)]
 
-### * Long-tail
+### * Long-tail & Few-shot
+
+Making Pretrained Language Models Good Long-tailed Learners,2022.[[EMNLP](https://aclanthology.org/2022.emnlp-main.217.pdf)]
+
+Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples! 2023.[[EMNLP](https://aclanthology.org/2023.findings-emnlp.710.pdf)]
 
 
 ### * Rule-based Reasoning
