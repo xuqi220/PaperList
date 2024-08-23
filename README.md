@@ -58,6 +58,9 @@ Llama 2: Open Foundation and Fine-Tuned Chat Models [[paper](https://arxiv.org/a
 
 Introducing Meta Llama 3: The most capable openly available LLM to date [[paper](https://ai.meta.com/blog/meta-llama-3/)]
 
+### * Long-tail
+
+
 ### * Rule-based Reasoning
 
 Chain of Logic: Rule-Based Reasoning with Large Language Models,2024.[[ACL](https://aclanthology.org/2024.findings-acl.159.pdf)]
