@@ -64,6 +64,8 @@ Making Pretrained Language Models Good Long-tailed Learners,2022.[[EMNLP](https:
 
 Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples! 2023.[[EMNLP](https://aclanthology.org/2023.findings-emnlp.710.pdf)]
 
+Large Language Models Struggle to Learn Long-Tail Knowledge.[[ICML](https://proceedings.mlr.press/v202/kandpal23a/kandpal23a.pdf)]
+
 
 ### * Rule-based Reasoning
 
