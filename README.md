@@ -114,11 +114,11 @@ Chain of Thought Prompting Elicits Knowledge Augmentation,2023.[[paper](https://
 
 ### * Hallucination
 
-**Evaluating Hallucinations in Chinese Large Language Models,2023.** [[paper](https://arxiv.org/abs/2310.03368)]
+Evaluating Hallucinations in Chinese Large Language Models,2023. [[paper](https://arxiv.org/abs/2310.03368)]
 
-**TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization,2024.**[[paper](https://arxiv.org/abs/2402.13249)]
+TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization,2024.[[paper](https://arxiv.org/abs/2402.13249)]
 
-**Exploring and Evaluating Hallucinations in LLM-Powered Code Generation,2024.** [[paper](https://arxiv.org/abs/2404.00971)]
+Exploring and Evaluating Hallucinations in LLM-Powered Code Generation,2024. [[paper](https://arxiv.org/abs/2404.00971)]
 
 UHGEval: Benchmarking the Hallucination of
 Chinese Large Language Models via Unconstrained Generation,2024.[[paper](https://arxiv.org/abs/2311.15296)]
@@ -126,6 +126,9 @@ Chinese Large Language Models via Unconstrained Generation,2024.[[paper](https:/
 Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models,2023.[[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614905)]
 
 The Internal State of an LLM Knows When It's Lying,2023. [[paper](https://arxiv.org/abs/2304.13734)]
+
+Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation,2023. [[ICLR](https://openreview.net/pdf?id=VD-AYtP0dve)]
+
 
 ### * LLM Interpretation
 
