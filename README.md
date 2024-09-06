@@ -134,6 +134,8 @@ Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natur
 
 ### * LLM Interpretation
 
+Rethinking Interpretability in the Era of Large Language Models,2024.[[paper](https://arxiv.org/abs/2402.01761)]
+
 ### * LLM using Tools
 Toolformer: Language Models Can Teach Themselves to Use Tools, 2024. [[Neurips](https://papers.nips.cc/paper_files/paper/2023/hash/d842425e4bf79ba039352da0f658a906-Abstract-Conference.html)]
 
@@ -152,5 +154,3 @@ for Extractive Document Summarization,2018.[[paper](https://arxiv.org/abs/1811.0
 
 Element-aware Summarization with Large Language Models:
 Expert-aligned Evaluation and Chain-of-Thought Method,2023. [[paper](https://aclanthology.org/2023.acl-long.482.pdf)]
-
-Rethinking Interpretability in the Era of Large Language Models,2024.[[paper](https://arxiv.org/abs/2402.01761)]
