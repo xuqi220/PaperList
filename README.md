@@ -66,6 +66,8 @@ Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Re
 
 Large Language Models Struggle to Learn Long-Tail Knowledge.[[ICML](https://proceedings.mlr.press/v202/kandpal23a/kandpal23a.pdf)]
 
+On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models[[ACL](https://aclanthology.org/2024.acl-short.12.pdf)]
+
 
 ### * Rule-based Reasoning
 
