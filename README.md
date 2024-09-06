@@ -154,3 +154,5 @@ for Extractive Document Summarization,2018.[[paper](https://arxiv.org/abs/1811.0
 
 Element-aware Summarization with Large Language Models:
 Expert-aligned Evaluation and Chain-of-Thought Method,2023. [[paper](https://aclanthology.org/2023.acl-long.482.pdf)]
+
+Lost in the Middle: How Language Models Use Long Contexts,2023.[[paper](https://arxiv.org/abs/2307.03172)]
