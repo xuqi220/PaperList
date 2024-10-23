@@ -1,10 +1,6 @@
 
 # LegalAI
 
-### * Survey
-
-### * Dataset
-
 ### * Legal Judgment Prediction
 
 ### * Court View Generation
@@ -17,7 +13,7 @@ Circumstances enhanced Criminal Court View Generation,2021.[[sigir](https://dl.a
 
 Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions,2018,[[naacl](https://aclanthology.org/N18-1168/)]
 
-### * Similar Case Match
+### * Legal Case Retrieval
 
 ### * LLM in Law
 
