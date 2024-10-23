@@ -90,7 +90,7 @@ Plan-then-Generate: Controlled Data-to-Text Generation via Planning,2021.[[paper
 Interpretable Math Word Problem Solution Generation
 Via Step-by-step Planning,2023. [[paper](https://aclanthology.org/2023.acl-long.379/)]
 
-### * Generated with Citations
+### * Generation with Citations
 
 Citation-Enhanced Generation for LLM-based Chatbots,2024.[[ACL](https://aclanthology.org/2024.acl-long.79)]
 
