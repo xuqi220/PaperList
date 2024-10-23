@@ -100,11 +100,27 @@ Citation-Enhanced Generation for LLM-based Chatbots,2024.[[ACL](https://aclantho
 
 Training Language Models to Generate Text with Citations via Fine-grained Rewards,2024.[[ACL](https://arxiv.org/pdf/2402.04315)]
 
-Chain-of-Thought Improves Text Generation with Citations in Large Language Models,2024.[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29794)]
+Chain-of-Thought Improves Text Generation with Citations in Large Language Models,2024.[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29794)]
 
-Learning to Plan and Generate Text with Citations,2024.[[paper](https://arxiv.org/abs/2404.03381)]
+Learning Fine-Grained Grounded Citations for Attributed Large Language Models,2024.[[ACL](https://aclanthology.org/2024.findings-acl.920)]
 
-Enabling Large Language Models to Generate Text with Citations,2023.[[paper](https://aclanthology.org/2023.emnlp-main.398/)]
+Learning to Generate Answers with Citations via Factual Consistency Models.[[ACL](https://doi.org/10.18653/v1/2024.acl-long.641)]
+
+Verifiable Generation with Subsentence-Level Fine-Grained Citations,2024.[[ACL](https://doi.org/10.18653/v1/2024.findings-acl.920)]
+
+Learning to Plan and Generate Text with Citations,2024.[[ACL](https://arxiv.org/abs/2404.03381)]
+
+CausalCite: A Causal Formulation of Paper Citations,2024.[[ACL](https://doi.org/10.18653/v1/2024.findings-acl.497)]
+
+EWEK-QA : Enhanced Web and Efficient Knowledge Graph Retrieval for Citation-based Question Answering Systems,2024.[[ACL](https://doi.org/10.18653/v1/2024.acl-long.764)]
+
+WebCiteS: Attributed Query-Focused Summarization on Chinese Web Search Results with Citations,2024.[[ACL](https://doi.org/10.18653/v1/2024.acl-long.806)]
+
+Effective Large Language Model Adaptation for Improved Grounding and Citation Generation,2024.[[NAACL](https://doi.org/10.18653/v1/2024.naacl-long.346)]
+
+SymTax: Symbiotic Relationship and Taxonomy Fusion for Effective Citation Recommendation,2024.[[ACL](https://doi.org/10.18653/v1/2024.findings-acl.533)] 
+
+Enabling Large Language Models to Generate Text with Citations,2023.[[EMNLP](https://aclanthology.org/2023.emnlp-main.398/)]
 
 
 
