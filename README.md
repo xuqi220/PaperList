@@ -1,9 +1,9 @@
 
 # LegalAI
 
-### * Legal Judgment Prediction
+### Legal Judgment Prediction
 
-### * Court View Generation
+### Court View Generation
 
 Event Grounded Criminal Court View Generation with Cooperative (Large) Language Models,2024.[[sigir](https://arxiv.org/abs/2404.07001)]
 
@@ -13,15 +13,15 @@ Circumstances enhanced Criminal Court View Generation,2021.[[sigir](https://dl.a
 
 Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions,2018,[[naacl](https://aclanthology.org/N18-1168/)]
 
-### * Legal Case Retrieval
+### Legal Case Retrieval
 
-### * LLM in Law
+### LLM in Law
 
 DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services,2023. [[paper](https://arxiv.org/abs/2309.11325)]
 
 Lawyer LLaMA Technical Report,2023.[[paper](https://arxiv.org/abs/2305.15062)]
 
-### * Study
+### Study
 
 A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction,2023. [[paper](https://aclanthology.org/2023.findings-emnlp.490/)]
 
@@ -35,7 +35,7 @@ TruthfulQA: Measuring How Models Mimic Human Falsehoods,2022. [[paper](https://a
 
 # Large Language Model
 
-### * Survey
+### Survey
 
 Leveraging Large Language Models for NLG Evaluation:
 Advances and Challenges,2024.[[paper](https://arxiv.org/abs/2401.07103)]
@@ -43,7 +43,7 @@ Advances and Challenges,2024.[[paper](https://arxiv.org/abs/2401.07103)]
 A Survey on Efficient Inference for Large
 Language Models,2024.[[paper](https://arxiv.org/abs/2404.14294)]
 
-### * Models
+### Models
 QWEN TECHNICAL REPORT [[paper](https://arxiv.org/abs/2309.16609)]
 
 GLM: General Language Model Pretraining with Autoregressive Blank Infilling [[paper](https://aclanthology.org/2022.acl-long.26.pdf)]
@@ -54,7 +54,7 @@ Llama 2: Open Foundation and Fine-Tuned Chat Models [[paper](https://arxiv.org/a
 
 Introducing Meta Llama 3: The most capable openly available LLM to date [[paper](https://ai.meta.com/blog/meta-llama-3/)]
 
-### * Long-tail & Few-shot
+### Long-tail & Few-shot
 
 Making Pretrained Language Models Good Long-tailed Learners,2022.[[EMNLP](https://aclanthology.org/2022.emnlp-main.217.pdf)]
 
@@ -64,8 +64,10 @@ Large Language Models Struggle to Learn Long-Tail Knowledge.[[ICML](https://proc
 
 On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models[[ACL](https://aclanthology.org/2024.acl-short.12.pdf)]
 
+### Alignment
 
-### * Rule-based Reasoning
+
+### Rule-based Reasoning
 
 Chain of Logic: Rule-Based Reasoning with Large Language Models,2024.[[ACL](https://aclanthology.org/2024.findings-acl.159.pdf)]
 
@@ -75,7 +77,7 @@ Case-Based or Rule-Based: How Do Transformers Do the Math? 2024,[[ICML](https://
 
 Enabling Large Language Models to Learn from Rules,2023. [[paper](https://arxiv.org/pdf/2311.08883v2)]
 
-### * Retriever Argument Generation（RAG）
+### Retriever Argument Generation（RAG）
 
 Self-Knowledge Guided Retrieval Augmentation
 for Large Language Models,2023[[EMNLP](https://aclanthology.org/2023.findings-emnlp.691/)]
@@ -84,13 +86,13 @@ Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Gen
 
 Retrieval-Generation Synergy Augmented Large Language Models,2023.[[paper](https://arxiv.org/abs/2310.05149)]
 
-### * PLan-then-Generate
+### PLan-then-Generate
 Plan-then-Generate: Controlled Data-to-Text Generation via Planning,2021.[[paper](https://aclanthology.org/2021.findings-emnlp.76/)]
 
 Interpretable Math Word Problem Solution Generation
 Via Step-by-step Planning,2023. [[paper](https://aclanthology.org/2023.acl-long.379/)]
 
-### * Generation with Citations
+### Generation with Citations
 
 Citation-Enhanced Generation for LLM-based Chatbots,2024.[[ACL](https://aclanthology.org/2024.acl-long.79)]
 
@@ -120,13 +122,13 @@ Enabling Large Language Models to Generate Text with Citations,2023.[[EMNLP](htt
 
 
 
-### * Chain-of-Thought (CoT)
+### Chain-of-Thought (CoT)
 
 Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework,2023. [[paper](https://aclanthology.org/2023.acl-long.320.pdf)]
 
 Chain of Thought Prompting Elicits Knowledge Augmentation,2023.[[paper](https://aclanthology.org/2023.findings-acl.408.pdf)]
 
-### * Hallucination
+### Hallucination
 
 Evaluating Hallucinations in Chinese Large Language Models,2023. [[paper](https://arxiv.org/abs/2310.03368)]
 
@@ -144,7 +146,7 @@ The Internal State of an LLM Knows When It's Lying,2023. [[paper](https://arxiv.
 Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation,2023. [[ICLR](https://openreview.net/pdf?id=VD-AYtP0dve)]
 
 
-### * LLM Interpretation
+### LLM Interpretation
 
 Rethinking Interpretability in the Era of Large Language Models,2024.[[paper](https://arxiv.org/abs/2402.01761)]
 
