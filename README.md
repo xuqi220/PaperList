@@ -1,6 +1,24 @@
 
 # LegalAI
 
+### On NeurIPS
+
+LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models,2024.[[NeurIPS](https://doi.org/10.48550/arXiv.2409.20288)]
+
+LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models,2023.[[NeurIPS](http://papers.nips.cc/paper_files/paper/2023/hash/89e44582fd28ddfea1ea4dcb0ebbf4b0-Abstract-Datasets_and_Benchmarks.html)]
+
+The Cambridge Law Corpus: A Corpus for Legal AI Research,2023.[[NeurIPS](http://papers.nips.cc/paper_files/paper/2023/hash/819b8452be7d6af1351d4c4f9cbdbd9b-Abstract-Datasets_and_Benchmarks.html)]
+
+Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset,2022.[[NeurIPS](http://papers.nips.cc/paper_files/paper/2022/hash/bc218a0c656e49d4b086975a9c785f47-Abstract-Datasets_and_Benchmarks.html)].
+
+A Multi-Task Benchmark for Korean Legal Language Understanding and Judgement Prediction,2022.[[NeurIPS](http://papers.nips.cc/paper_files/paper/2022/hash/d15abd14d5894eebd185b756541d420e-Abstract-Datasets_and_Benchmarks.html)].
+
+Multi-LexSum: Real-world Summaries of Civil Rights Lawsuits at Multiple Granularities,2022. [[NeurIPS](http://papers.nips.cc/paper_files/paper/2022/hash/552ef803bef9368c29e53c167de34b55-Abstract-Datasets_and_Benchmarks.html)]
+
+CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review,2021.[[NeurIPS](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/6ea9ab1baa0efb9e19094440c317e21b-Abstract-round1.html)].
+
+
+
 ### Legal Judgment Prediction
 
 ### Court View Generation
