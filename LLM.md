@@ -33,6 +33,8 @@ On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models[
 
 ### Knowledge Editing
 
+Knowledge Circuits in Pretrained Transformers,[[NIPS24](https://arxiv.org/abs/2405.17969)]
+
 ### Rule-based Reasoning
 
 Chain of Logic: Rule-Based Reasoning with Large Language Models,2024.[[ACL](https://aclanthology.org/2024.findings-acl.159.pdf)]
