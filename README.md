@@ -1,7 +1,6 @@
 
 # LegalAI
 
-### On NeurIPS
 
 LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models,2024.[[NeurIPS](https://doi.org/10.48550/arXiv.2409.20288)]
 
