@@ -29,6 +29,8 @@ Large Language Models Struggle to Learn Long-Tail Knowledge.[[ICML](https://proc
 
 On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models[[ACL](https://aclanthology.org/2024.acl-short.12.pdf)]
 
+### Multi-Agent
+
 ### Alignment
 
 ### Knowledge Editing
