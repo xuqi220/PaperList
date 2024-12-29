@@ -29,8 +29,6 @@ Large Language Models Struggle to Learn Long-Tail Knowledge.[[ICML](https://proc
 
 On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models[[ACL](https://aclanthology.org/2024.acl-short.12.pdf)]
 
-### Multi-Agent
-
 ### Alignment
 
 ### Knowledge Editing
@@ -63,6 +61,10 @@ Interpretable Math Word Problem Solution Generation
 Via Step-by-step Planning,2023. [[paper](https://aclanthology.org/2023.acl-long.379/)]
 
 ### Generation with Citations
+
+CitaLaw: Enhancing LLM with Citations in Legal Domain,2024.[[Arxiv](https://arxiv.org/abs/2412.14556)]
+
+WebCiteS: Attributed Query-Focused Summarization on Chinese Web Search Results with Citations,2024. [[Arxiv](https://arxiv.org/abs/2403.01774)]
 
 Citation-Enhanced Generation for LLM-based Chatbots,2024.[[ACL](https://aclanthology.org/2024.acl-long.79)]
 
