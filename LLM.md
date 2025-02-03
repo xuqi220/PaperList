@@ -19,6 +19,16 @@ Llama 2: Open Foundation and Fine-Tuned Chat Models [[paper](https://arxiv.org/a
 
 Introducing Meta Llama 3: The most capable openly available LLM to date [[paper](https://ai.meta.com/blog/meta-llama-3/)]
 
+DeepSeek LLM: Scaling Open-Source Language Models with Longtermism. [[Paper](https://arxiv.org/abs/2401.02954)]
+
+DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models. [[paper](https://arxiv.org/abs/2401.06066)]
+
+DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model. [[paper](https://arxiv.org/abs/2405.04434)]
+
+DeepSeek-V3 Technical Report [[paper](https://arxiv.org/html/2412.19437v1)]
+
+DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. [[paper](https://arxiv.org/abs/2501.12948)]
+
 ### Long-tail & Few-shot
 
 Making Pretrained Language Models Good Long-tailed Learners,2022.[[EMNLP](https://aclanthology.org/2022.emnlp-main.217.pdf)]
